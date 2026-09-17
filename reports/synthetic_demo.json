@@ -1,0 +1,9 @@
+{
+  "dataset": "synthetic numerical proof",
+  "train_rows": 180,
+  "test_rows": 70,
+  "prediction_max_absolute_difference": 8.881784197001252e-15,
+  "predictions_equal_at_1e_8": true,
+  "recovery_max_absolute_difference": 1.4432899320127035e-15,
+  "condition_number_P": 3.2857142857142856
+}
